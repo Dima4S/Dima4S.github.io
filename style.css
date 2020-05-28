@@ -1,100 +1,12 @@
-
-.menu {
-	position: fixed;
-	display: inline-block;
-	width: 150px;
-	height: 450px;
-	top: -10px;
-	left: 0px;
-	background-color: #48494a;
-	border-radius: 15px;
+p{
+	font-size: 30px;
+	font-family: 'Roboto', sans-serif;
 }
 
-	a{
-		position: relative;
-		display: block;
-		text-decoration: none;
-		color: #FFFFFF;
-		background-color: #727475;
-		padding: 10px 20px;
-		left: -35px;
-		top: 35px;
-		margin: 15px 6px;
-		border-radius: 5px;
-	}
-
-.ico{
-	position: relative;
-	background-image: url(assets/web.ico);
-	background-size: cover;
-	background-repeat: no-repeat;
-	width: 100px;
-	height: 100px;
-	left: 15%;
-	top: 20px;
+h2{
+	font-size: 35px;
 }
 
-body {
-	background-image: url(assets/wall.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
+h1 {
+	font-size: 45px;
 }
-
-.a1 {
-	padding: 15px 5px;
-	margin: 45px 30px 20px 180px;
-	background-color: #78c47f;
-	border-radius: 5px;
-	border: 4px dashed;
-}
-
-.a2 {
-	padding: 15px 5px;
-	margin: 45px 30px 20px 180px;
-	background-color: #787fc4;
-	border-radius: 5px;
-	border: 4px dashed;
-}
-
-.a3 {
-	padding: 15px 5px;
-	margin: 45px 30px 20px 180px;
-	background-color: #78c47f;
-	border-radius: 5px;
-	border: 4px dashed;
-}
-
-article > p {
-	margin: 15px 25px;
-}
-
-article > h2 {
-	text-align: center;
-}
-
-p {
-	font-size: 18px;
-}
-
-.image {
-	position: relative;
-	display: block;
-	border-radius: 80px;
-	background-size: cover;
-	background-repeat: no-repeat;
-	width: 150px;
-	height: 150px;
-	left: 45%;
-}
-
-	.one {
-		background-image: url("https://img2.akspic.ru/image/128931-flora-peyzash-okruzhayushchaya_sreda-gora-prirodnyj_landshaft-2880x1800.jpg");
-	}
-
-	.two {
-		background-image: url("https://avatars.mds.yandex.net/get-pdb/1902434/d3e41fbd-54bf-49a5-a26e-e0bca8533b65/s1200?webp=false");
-	}
-
-	.three {
-		background-image: url("https://wallbox.ru/wallpapers/main/201201/autumn-osen-yarkoe-f3404cf.jpg");
-	}
